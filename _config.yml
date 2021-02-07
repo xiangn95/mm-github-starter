@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ng Xiang Yao"
   avatar : "/assets/images/bio-pic.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "An enthusiast Deep Learning practioner in the field of Computer Vision. Currently a Master student at Tsinghua University."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"

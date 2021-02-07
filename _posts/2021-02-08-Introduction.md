@@ -4,11 +4,12 @@ date: 2021-02-08
 categories:
   - blog
 tags:
-  - Jekyll
   - update
 ---
 
 Hi! Thank you for reading my post. I am Ng Xiang Yao, an enthusiast in Deep Learning and Computer Vision research. My goal in this blog is to post my thoughts in my research on Facial Anti-Spoofing as well as other interesting applications that Deep Learning will be able to search. Looking forward to progress myself academically and professionally along the way. 
+
+Currently, I am still in a limbo of setting my own research direction for my Master's thesis. As of now, I am still in the middle of thinking about the possible directions that I may pursue in accordance to my own research lab under the supervision of my supervisor. I have read papers extensively in the field of Face Anti-Spoofing, but due to some difficulties, little progress can be made. Hence, I am also thinking of venturing into other fields such as Dual Pixel, 3D reconstruction, human expression recognition, image super-resolution etc.  
 
 <!-- You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
